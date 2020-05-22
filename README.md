@@ -1,2 +1,2 @@
-# projectweb for codeacademy
-Web project development 
+# Projectweb for Codecademy
+Web Project Development 
